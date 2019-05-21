@@ -1,0 +1,25 @@
+body {
+	border: solid 20px #9b9fa5;
+	width: 50%;
+	margin: 20px auto;
+	padding: 20px; 
+}
+
+
+h1 {
+	font-family: Open+Sans:700;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: Open+Sans:400;
+	font-size: 20px;
+	color: #5d95ef;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+.block {
+	border-left: 5px solid #878b91;
+	padding-left: 10px;
+}
